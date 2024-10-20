@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sisi Tong"
-  avatar           : "sisi.png"
+  avatar           : "images/sisi.png"
   bio              : "Institute of Crop Science, Chinese Academy of Agricultural Sciences"
   location         : "Beijing, China"
   employer         :
